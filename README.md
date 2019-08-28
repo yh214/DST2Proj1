@@ -15,8 +15,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. What type of developer has the highest level of job satisfaction.
-2. What factors about programming style would affect salary?
+1. What type of developer has the highest level of job satisfaction?
+2. How would different programming styles affect salary?
 3. What kind of personality would contribute to salary?
 
 
