@@ -15,18 +15,22 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. What type of developer has the highest level of job satisfaction?
-2. How would different programming styles affect salary?
-3. What kind of personality would contribute to salary?
+1. What type of job is the most popular one?
+2. What type of developer has the highest level of salary?
+3. How would different programming styles affect salary?
 
 
 ## File Descriptions <a name="files"></a>
 
-To be implemented
+There are two notebooks available here to showcase work related to the above questions. 
+Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. 
+Markdown cells were used to assist in walking through the thought process for individual steps. 
+
+Raw data and data schema is also uploaded as a supplement.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@chrrhyghy/data-analysis-result-for-stackoverflow-2017-data-8fc659ce2a38).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
